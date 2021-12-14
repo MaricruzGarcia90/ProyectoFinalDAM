@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IIC Museo Trivia</string>
+    <string name="text_titulo">¿Conoces la Historia de Baja California?</string>
+    <string name="question_text1"> El bule es un instrumento musical elaborado con una jícara y semillas dentro, utilizado en algunos cantos tradicionales por los Kumiai. </string>
+    <string name="question_text2"> La ushanka es un recipiente de origen ruso, provisto de un tubo interior donde se ponen carbones, que se usa para calentar el agua del té. </string>
+    <string name="question_text3"> El onigri es un alimento preparado por los japoneses durante la celebración del año nuevo, su principal ingrediente es el arroz. </string>
+    <string name="question_text4"> Las pinturas rupestres son murales pintados por los antiguos pobladores de la península que nos permiten interpretar la historia y la forma en la que vivían nuestros antepasados. </string>
+    <string name="question_text5"> El instrumento de molienda es utilizado para triturar y machacar plantas, cuyos pigmentos arrojados, era utilizado como pintura para las pinturas rupestres. </string>
+    <string name="question_text6"> Un chamán es el líder de una comunidad, su nombramiento era otorgado por los dioses a través de un sueño. </string>
+    <string name="question_text7"> El peyote es una planta utilizada durante los rituales de iniciación e induce a estados de alucinación muy intensos. </string>
+    <string name="question_text8"> El cuñado es un elemento utilizado en las ceremonias fúnebres, que era el equivalente a la fotografía que actualmente se utiliza para representar a los muertos. </string>
+    <string name="question_text9"> Las amonitas son un grupo de moluscos prehistóricos que vivieron en la tierra durante casi 400 millones de años. </string>
+    <string name="question_text10">El velociraptor es un dinosaurio carnívoro que vivió durante el precioso cretácico, que llegó a alcanzar los 9 metros de longitud y pesar hasta 3 toneladas. </string>
+
+    <string name="true_button"> Verdadero </string>
+    <string name="false_button"> Falso </string>
+    <string name="next_button"> Siguiente </string>
+    <string name="answer_button"> Descubrir Respuesta</string>
+    <string name="true_msg">  Respuesta Correcta </string>
+    <string name="false_msg"> Respuesta Incorrecta </string>
+    <string name="verdadero_answer"> Verdadero </string>
+    <string name="falso_answer"> Falso </string>
+    <string name="trampa_msg"> ¡Inténtalo a la próxima! </string>
+    <string name="back_button"> Atras </string>
+
+
+</resources>
